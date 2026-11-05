@@ -12,6 +12,8 @@ The **Model Context Protocol (MCP)** is an open standard that lets AI applicatio
 
 ## Integrations in my workspace
 
+[View the full MCP list and setup statuses](MCP-LIST.md).
+
 | Area | Connected integrations |
 | --- | --- |
 | Design and media | Figma, Higgsfield, MotionSites |
